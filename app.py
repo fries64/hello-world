@@ -42,11 +42,11 @@ def makeWebhookResult(req):
     kik_message = [
         {
             "type": "text",
-            "body": "Here's the picture of item " + item
+            "body": "here u go uwu " + item
         },
         {
             "type": "picture",
-            "picUrl": "https://raw.githubusercontent.com/svet4/apiai-kik-rich-formatting/master/pictures/item" + item +".png"
+            "picUrl": "https://github.com/fries64/hello-world/tree/master/pictures/item" + item +".png"
         }
     ]
 
